@@ -4,7 +4,7 @@ This repository contains the Koinx assignment project. Below are the relevant li
 
 ## Links
 - **Assignment Details**: [Koinx Assignment Link](https://koinx.notion.site/KoinX-Frontend-Intern-Assignment-8d58a764615d445087b666bf0f6daf4a)
-- **Deployed Application**: [Deployed Link](https://varad-koinx-frontend-assignment.netlify.app/)
+- **Deployed Application**: [Deployed Link](https://gauravmani.vercel.app/)
 
 ## Getting Started
 
